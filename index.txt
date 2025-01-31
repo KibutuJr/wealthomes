@@ -1,7 +1,7 @@
 
 Wealthome
 
-This is a realestate website devloped by codewithsadee
+This is a realestate website devloped for codegner
 
 
 
@@ -293,4 +293,4 @@ Get in touch
 hello@wealthome.com
 4140 Parker Rd. Allentown, New Mexico 31134
 
-Copyright 2023 codewithsadee
+Copyright 2024 Codegner
